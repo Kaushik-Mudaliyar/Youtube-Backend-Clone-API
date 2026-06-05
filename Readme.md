@@ -179,7 +179,7 @@ https://app.eraser.io/workspace/OT9Z8A56moLIWipHK6sw
 Clone the repository
 
 ```
-git clone https://github.com/Kaushik-Mudaliyar/videotube-backend.git
+git clone https://github.com/Kaushik-Mudaliyar/Youtube-Backend-Clone-API.git
 ```
 
 Navigate to the project folder
