@@ -1,4 +1,4 @@
-# 🎬 Youtube Backend Clone API
+# 🎬 Youtube Backend Clone API - videotube
 
 A scalable backend API for a video sharing platform similar to YouTube.
 This project provides features such as authentication, video uploads, comments, likes,tweets, subscriptions, playlists, and channel dashboards.This project is part of my backend development learning journey.
